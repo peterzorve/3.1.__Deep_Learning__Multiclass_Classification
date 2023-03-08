@@ -1,1 +1,1 @@
-# 3.1.__Deep_Learning__Multiclass_Classification
+# 3.2.__Deep_Learning__Multiclass_Classification
